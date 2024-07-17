@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006638624600",
+    "project_id": "apulia-digital-maker-2024",
+    "storage_bucket": "apulia-digital-maker-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006638624600:android:793201f4fa857bb7037f2d",
+        "android_client_info": {
+          "package_name": "com.example.apulia2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUVmi17AuDGFb3cdr8mlU3OYyoSZ_cRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
